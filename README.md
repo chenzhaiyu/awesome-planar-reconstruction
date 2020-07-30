@@ -1,4 +1,15 @@
-# Awesome Planar Reconstruction[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Planar Reconstruction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## Papers
+
+### Single-view Reconstruction
+
+| Title                                                        | Authors                      | Venue | Year | Resources                                                    |
+| :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image | Chen Liu et al.              | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1804.06278.pdf) [[CODE]](https://github.com/art-programmer/PlaneNet) |
+| Recovering 3D Planes from a Single Image via Convolutional Neural Networks | Fengting Yang and Zihan Zhou | ECCV  | 2018 | [[PDF]](https://faculty.ist.psu.edu/zzhou/paper/ECCV18-plane.pdf) [[CODE]](https://github.com/fuy34/planerecover) |
+| PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image | Chen Liu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
+| Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | Zehao Yu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
 
 ## License
 
