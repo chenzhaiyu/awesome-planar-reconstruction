@@ -11,6 +11,12 @@
 | PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image | Chen Liu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
 | Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | Zehao Yu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
 
+### Multi-view Reconstruction
+
+| Title                                                        | Authors                   | Venue                      | Year | Resources                                                    |
+| :----------------------------------------------------------- | ------------------------- | -------------------------- | ---- | ------------------------------------------------------------ |
+| Reconstructing piecewise planar scenes with multi-view regularization | Weijie Xi and Xuejin Chen | Computational Visual Media | 2019 | [[PDF]](https://link.springer.com/content/pdf/10.1007/s41095-019-0159-7.pdf) |
+
 ### Binary Space Partitioning
 
 | Title                                                        | Authors            | Venue | Year | Resources                                                    |
