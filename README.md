@@ -10,6 +10,7 @@
 | Recovering 3D Planes from a Single Image via Convolutional Neural Networks | Fengting Yang and Zihan Zhou | ECCV  | 2018 | [[PDF]](https://faculty.ist.psu.edu/zzhou/paper/ECCV18-plane.pdf) [[CODE]](https://github.com/fuy34/planerecover) |
 | PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image | Chen Liu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
 | Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | Zehao Yu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
+| Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks [*] | Junyi Pan et al.             | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.00321.pdf) [[CODE]](https://github.com/jnypan/TMNet) |
 
 ### Multi-view Reconstruction
 
@@ -17,11 +18,14 @@
 | :----------------------------------------------------------- | ------------------------- | -------------------------- | ---- | ------------------------------------------------------------ |
 | Reconstructing piecewise planar scenes with multi-view regularization | Weijie Xi and Xuejin Chen | Computational Visual Media | 2019 | [[PDF]](https://link.springer.com/content/pdf/10.1007/s41095-019-0159-7.pdf) |
 
-### Binary Space Partitioning
+### Implicit Field
 
-| Title                                                        | Authors            | Venue | Year | Resources                                                    |
-| :----------------------------------------------------------- | ------------------ | ----- | ---- | ------------------------------------------------------------ |
-| BSP-Net: Generating Compact Meshes via Binary Space Partitioning | Zhiqin Chen et al. | CVPR  | 2020 | [[PDF\]](https://arxiv.org/pdf/1911.06971.pdf) [[CODE\]](https://github.com/czq142857/BSP-NET-pytorch) |
+| Title                                                        | Authors                   | Venue | Year | Resources                                                    |
+| :----------------------------------------------------------- | ------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| Learning Implicit Fields for Generative Shape Modeling [*]   | Zhiqin Chen and Hao Zhang | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) [[CODE]](https://github.com/czq142857/implicit-decoder) |
+| BSP-Net: Generating Compact Meshes via Binary Space Partitioning | Zhiqin Chen et al.        | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.06971.pdf) [[CODE]](https://github.com/czq142857/BSP-NET-pytorch) |
+
+\* Planarity not guaranteed 
 
 ## License
 
