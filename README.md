@@ -25,7 +25,13 @@
 | Learning Implicit Fields for Generative Shape Modeling [*]   | Zhiqin Chen and Hao Zhang | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) [[CODE]](https://github.com/czq142857/implicit-decoder) |
 | BSP-Net: Generating Compact Meshes via Binary Space Partitioning | Zhiqin Chen et al.        | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.06971.pdf) [[CODE]](https://github.com/czq142857/BSP-NET-pytorch) |
 
-\* Planarity not guaranteed 
+### Kinetic Reconstruction
+
+| Title                        | Authors                                   | Venue   | Year | Resources                                     |
+| :--------------------------- | ----------------------------------------- | ------- | ---- | --------------------------------------------- |
+| Kinetic Shape Reconstruction | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | ACM TOG | 2020 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) |
+
+\* Planarity not guaranteed
 
 ## License
 
