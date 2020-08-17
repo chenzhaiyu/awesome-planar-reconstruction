@@ -4,6 +4,14 @@
 
 ### Single-view Reconstruction
 
+### Plane extraction/detection
+
+| Title                                                        | Authors                      | Venue | Year | Resources                                                    |
+| :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| Efficient RANSAC for Point-Cloud Shape Detection             | Schnabel, et al.             | Computer Graphics Forum  | 2007 | [[PDF]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) [[CODE]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) |
+| Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds | Sheng Xu, Ruisheng Wang, Hao Wang, and Ruigang Yang | PAMI  | 2020 | [[PDF]](https://ieeexplore.ieee.org/document/9095372)|
+
+
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image | Chen Liu et al.              | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1804.06278.pdf) [[CODE]](https://github.com/art-programmer/PlaneNet) |
