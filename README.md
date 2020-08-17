@@ -2,8 +2,6 @@
 
 ## Papers
 
-### Single-view Reconstruction
-
 ### Plane extraction/detection
 
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
@@ -11,6 +9,7 @@
 | Efficient RANSAC for Point-Cloud Shape Detection             | Schnabel, et al.             | Computer Graphics Forum  | 2007 | [[PDF]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) [[CODE]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) |
 | Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds | Sheng Xu, Ruisheng Wang, Hao Wang, and Ruigang Yang | PAMI  | 2020 | [[PDF]](https://ieeexplore.ieee.org/document/9095372)|
 
+### Single-view Reconstruction
 
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
@@ -19,6 +18,7 @@
 | PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image | Chen Liu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
 | Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding | Zehao Yu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
 | Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks [*] | Junyi Pan et al.             | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.00321.pdf) [[CODE]](https://github.com/jnypan/TMNet) |
+
 
 ### Multi-view Reconstruction
 
