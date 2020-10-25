@@ -33,6 +33,9 @@
 | Learning Implicit Fields for Generative Shape Modeling       | Zhiqin Chen and Hao Zhang | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) [[CODE]](https://github.com/czq142857/implicit-decoder) |
 | **BSP-Net: Generating Compact Meshes via Binary Space Partitioning** | Zhiqin Chen et al.        | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.06971.pdf) [[CODE]](https://github.com/czq142857/BSP-NET-pytorch) |
 | **Points2Surf: Learning Implicit Surfaces from Point Clouds** | Philipp Erler et al.      | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10453.pdf) [[CODE]](https://github.com/ErlerPhilipp/points2surf) |
+| Overfit Neural Networks as a Compact Shape Representation    | Thomas Davies et al.      | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/2009.09808.pdf)                |
+| Implicit Geometric Regularization for Learning Shapes        | Amos Gropp et al.         | ICML  | 2020 | [[PDF]](https://arxiv.org/pdf/2002.10099.pdf) [[CODE]](https://github.com/amosgropp/IGR) |
+| Deep Parametric Shape Predictions using Distance Fields      | Dmitriy Smirnov et al.    | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1904.08921.pdf) [[CODE]](https://github.com/dmsm/DeepParametricShapes) |
 
 ### Kinetic Reconstruction
 
@@ -45,6 +48,19 @@
 | Title                                                       | Authors             | Venue | Year | Resources                                     |
 | :---------------------------------------------------------- | ------------------- | ----- | ---- | --------------------------------------------- |
 | CSGNet: Neural Shape Parser for Constructive Solid Geometry | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf) |
+
+### Mesh Deformation
+
+| Title                                              | Authors             | Venue    | Year | Resources                                                    |
+| :------------------------------------------------- | ------------------- | -------- | ---- | ------------------------------------------------------------ |
+| **Point2Mesh: A Self-Prior for Deformable Meshes** | RANA HANOCKA et al. | SIGGRAPH | 2020 | [[PDF]](https://arxiv.org/pdf/2005.11084.pdf) [[CODE]](https://github.com/ranahanocka/Point2Mesh/) |
+| ShapeFlow: Learnable Deformations Among 3D Shapes  | Chiyu Jiang et al.  | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/abs/2006.07982) [[CODE]](https://github.com/maxjiang93/ShapeFlow) |
+
+### Triangulation
+
+| Title                                               | Authors                            | Venue | Year | Resources                                                    |
+| :-------------------------------------------------- | ---------------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| PointTriNet: Learned Triangulation of 3D Point Sets | Nicholas Sharp and Maks Ovsjanikov | ECCV  | 2020 | [[PDF]](https://nmwsharp.com/media/papers/learned-triangulation/learned_triangulation.pdf) [[CODE]](https://github.com/nmwsharp/learned-triangulation) |
 
 ## License
 
