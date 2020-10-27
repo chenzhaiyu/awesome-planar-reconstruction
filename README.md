@@ -26,7 +26,7 @@
 | :----------------------------------------------------------- | ------------------------- | -------------------------- | ---- | ------------------------------------------------------------ |
 | **Reconstructing piecewise planar scenes with multi-view regularization** | Weijie Xi and Xuejin Chen | Computational Visual Media | 2019 | [[PDF]](https://link.springer.com/content/pdf/10.1007/s41095-019-0159-7.pdf) |
 
-### Implicit Field
+### Generative / Implicit Field
 
 | Title                                                        | Authors                   | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ------------------------- | ----- | ---- | ------------------------------------------------------------ |
@@ -36,6 +36,7 @@
 | Overfit Neural Networks as a Compact Shape Representation    | Thomas Davies et al.      | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/2009.09808.pdf)                |
 | Implicit Geometric Regularization for Learning Shapes        | Amos Gropp et al.         | ICML  | 2020 | [[PDF]](https://arxiv.org/pdf/2002.10099.pdf) [[CODE]](https://github.com/amosgropp/IGR) |
 | Deep Parametric Shape Predictions using Distance Fields      | Dmitriy Smirnov et al.    | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1904.08921.pdf) [[CODE]](https://github.com/dmsm/DeepParametricShapes) |
+| **PolyGen: An Autoregressive Generative Model of 3D Meshes** | Charlie Nash et al.       | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/2002.10880v1.pdf)              |
 
 ### Kinetic Reconstruction
 
@@ -43,18 +44,19 @@
 | :------------------------------- | ----------------------------------------- | ------- | ---- | --------------------------------------------- |
 | **Kinetic Shape Reconstruction** | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | ACM TOG | 2020 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) |
 
-### Constructive Solid Geometry
-
-| Title                                                       | Authors             | Venue | Year | Resources                                     |
-| :---------------------------------------------------------- | ------------------- | ----- | ---- | --------------------------------------------- |
-| CSGNet: Neural Shape Parser for Constructive Solid Geometry | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf) |
-
 ### Mesh Deformation
 
 | Title                                              | Authors             | Venue    | Year | Resources                                                    |
 | :------------------------------------------------- | ------------------- | -------- | ---- | ------------------------------------------------------------ |
 | **Point2Mesh: A Self-Prior for Deformable Meshes** | RANA HANOCKA et al. | SIGGRAPH | 2020 | [[PDF]](https://arxiv.org/pdf/2005.11084.pdf) [[CODE]](https://github.com/ranahanocka/Point2Mesh/) |
 | ShapeFlow: Learnable Deformations Among 3D Shapes  | Chiyu Jiang et al.  | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/abs/2006.07982) [[CODE]](https://github.com/maxjiang93/ShapeFlow) |
+
+### Constructive / Parametric Geometry
+
+| Title                                                        | Authors             | Venue | Year | Resources                                                    |
+| :----------------------------------------------------------- | ------------------- | ----- | ---- | ------------------------------------------------------------ |
+| CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
+| ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al. | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
 
 ### Triangulation
 
