@@ -4,7 +4,7 @@
 
 Those with piece-wise planar property are **highlighted**.
 
-### Plane extraction/detection
+### Plane Extraction / Detection
 
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
@@ -20,6 +20,7 @@ Those with piece-wise planar property are **highlighted**.
 | **PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image** | Chen Liu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
 | **Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding** | Zehao Yu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
 | Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks | Junyi Pan et al.             | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.00321.pdf) [[CODE]](https://github.com/jnypan/TMNet) |
+| Mesh R-CNN                                                   | Georgia Gkioxari et al.      | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1906.02739.pdf) [[CODE]](https://github.com/facebookresearch/meshrcnn) |
 
 
 ### Multi-view Reconstruction
@@ -56,12 +57,14 @@ Those with piece-wise planar property are **highlighted**.
 | ShapeFlow: Learnable Deformations Among 3D Shapes            | Chiyu Jiang et al.                  | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/abs/2006.07982) [[CODE]](https://github.com/maxjiang93/ShapeFlow) |
 | Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows | Kunal Gupta and Manmohan Chandraker | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10973.pdf) [[CODE]](https://github.com/KunalMGupta/NeuralMeshFlow) |
 
-### Constructive / Parametric Geometry
+### Constructive / Parametric Geometry / Assembly
 
 | Title                                                        | Authors             | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ------------------- | ----- | ---- | ------------------------------------------------------------ |
+| 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks | Chuhang Zou et al.  | ICCV  | 2017 | [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf) [[CODE]](https://github.com/zouchuhang/3D-PRNN) |
 | CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
 | ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al. | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
+| PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.     | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
 
 ### Triangulation
 
