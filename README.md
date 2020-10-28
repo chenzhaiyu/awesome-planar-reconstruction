@@ -2,6 +2,8 @@
 
 ## Papers
 
+Those with piece-wise planar property are **highlighted**.
+
 ### Plane extraction/detection
 
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
@@ -47,10 +49,11 @@
 
 ### Mesh Deformation
 
-| Title                                              | Authors             | Venue    | Year | Resources                                                    |
-| :------------------------------------------------- | ------------------- | -------- | ---- | ------------------------------------------------------------ |
-| **Point2Mesh: A Self-Prior for Deformable Meshes** | RANA HANOCKA et al. | SIGGRAPH | 2020 | [[PDF]](https://arxiv.org/pdf/2005.11084.pdf) [[CODE]](https://github.com/ranahanocka/Point2Mesh/) |
-| ShapeFlow: Learnable Deformations Among 3D Shapes  | Chiyu Jiang et al.  | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/abs/2006.07982) [[CODE]](https://github.com/maxjiang93/ShapeFlow) |
+| Title                                                        | Authors                             | Venue    | Year | Resources                                                    |
+| :----------------------------------------------------------- | ----------------------------------- | -------- | ---- | ------------------------------------------------------------ |
+| **Point2Mesh: A Self-Prior for Deformable Meshes**           | RANA HANOCKA et al.                 | SIGGRAPH | 2020 | [[PDF]](https://arxiv.org/pdf/2005.11084.pdf) [[CODE]](https://github.com/ranahanocka/Point2Mesh/) |
+| ShapeFlow: Learnable Deformations Among 3D Shapes            | Chiyu Jiang et al.                  | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/abs/2006.07982) [[CODE]](https://github.com/maxjiang93/ShapeFlow) |
+| Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows | Kunal Gupta and Manmohan Chandraker | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10973.pdf) [[CODE]](https://github.com/KunalMGupta/NeuralMeshFlow) |
 
 ### Constructive / Parametric Geometry
 
