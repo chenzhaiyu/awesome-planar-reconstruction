@@ -72,6 +72,13 @@ Those with piece-wise planar property are **highlighted**.
 | :-------------------------------------------------- | ---------------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | PointTriNet: Learned Triangulation of 3D Point Sets | Nicholas Sharp and Maks Ovsjanikov | ECCV  | 2020 | [[PDF]](https://nmwsharp.com/media/papers/learned-triangulation/learned_triangulation.pdf) [[CODE]](https://github.com/nmwsharp/learned-triangulation) |
 
+### Urban Reconstruction
+
+| Title                                                  | Authors               | Venue   | Year | Resources                                                    |
+| :----------------------------------------------------- | --------------------- | ------- | ---- | ------------------------------------------------------------ |
+| LOD Generation for Urban Scenes                        | Yannick Verdie et al. | ACM TOG | 2015 | [[PDF]](https://hal.inria.fr/hal-01113078/file/manuscript.pdf) |
+| Manhattan-world Urban Reconstruction from Point Clouds | Minglei Li et al.     | ECCV    | 2016 | [[PDF]](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf) |
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
