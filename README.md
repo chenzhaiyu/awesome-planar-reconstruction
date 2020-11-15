@@ -9,7 +9,9 @@ Those with piece-wise planar property are **highlighted**.
 | Title                                                        | Authors                      | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | Efficient RANSAC for Point-Cloud Shape Detection             | Ruwen Schnabel et al.       | Computer Graphics Forum  | 2007 | [[PDF]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) [[CODE]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) |
+| The 3D Hough Transform for Plane Detection in Point Clouds: A Review and a new Accumulator Design | Dorit Borrmann et al. | 3D Research | 2011 | [[PDF]](https://www.researchgate.net/publication/228754371_The_3D_Hough_Transform_for_plane_detection_in_point_clouds_A_review_and_a_new_accumulator_design) |
 | Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds | Sheng Xu et al. | PAMI  | 2020 | [[PDF]](https://ieeexplore.ieee.org/document/9095372)|
+| From Planes to Corners: Multi-Purpose Primitive Detection in Unorganized 3D Point Clouds | Christiane Sommer et al. | ICRA | 2020 | [[PDF]](https://arxiv.org/ftp/arxiv/papers/2001/2001.07360.pdf) [[CODE]](https://github.com/c-sommer/orthogonal-planes) |
 
 ### Single-view Reconstruction
 
