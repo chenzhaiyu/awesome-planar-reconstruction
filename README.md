@@ -70,7 +70,7 @@ Those with piece-wise planar property are **highlighted**.
 | CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
 | ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al. | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
 | PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.     | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
-| UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree | Kacper Kania et al. | NIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
+| **UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree** | Kacper Kania et al. | NIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
 
 ### Triangulation
 
