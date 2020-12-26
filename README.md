@@ -10,6 +10,7 @@ Those with piece-wise planar property are **highlighted**.
 | :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | Efficient RANSAC for Point-Cloud Shape Detection             | Ruwen Schnabel et al.       | Computer Graphics Forum  | 2007 | [[PDF]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) [[CODE]](https://cg.cs.uni-bonn.de/en/publications/paper-details/schnabel-2007-efficient/) |
 | The 3D Hough Transform for Plane Detection in Point Clouds: A Review and a new Accumulator Design | Dorit Borrmann et al. | 3D Research | 2011 | [[PDF]](https://www.researchgate.net/publication/228754371_The_3D_Hough_Transform_for_plane_detection_in_point_clouds_A_review_and_a_new_accumulator_design) |
+| Planar Shape Detection at Structural Scales | Hao Fang et al. | CVPR | 2018 | [[PDF]](https://hal.inria.fr/hal-01741650/document) |
 | Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds | Sheng Xu et al. | PAMI  | 2020 | [[PDF]](https://ieeexplore.ieee.org/document/9095372)|
 | From Planes to Corners: Multi-Purpose Primitive Detection in Unorganized 3D Point Clouds | Christiane Sommer et al. | ICRA | 2020 | [[PDF]](https://arxiv.org/ftp/arxiv/papers/2001/2001.07360.pdf) [[CODE]](https://github.com/c-sommer/orthogonal-planes) |
 
@@ -35,6 +36,7 @@ Those with piece-wise planar property are **highlighted**.
 
 | Title                                                        | Authors                   | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| Continuous Signed Distance Functions for 3D Vision           | Simen Haugo et al.        | 3DV   | 2017 | [[PDF]](https://lightbits.github.io/papers/haugo2017continuous.pdf) |
 | DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation | Jeong Joon Park et al.    | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1901.05103.pdf) [[CODE]](https://github.com/facebookresearch/DeepSDF) |
 | Occupancy Networks: Learning 3D Reconstruction in Function Space | Lars Mescheder et al.     | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.03828) [[CODE]](https://github.com/autonomousvision/occupancy_networks) |
 | Learning Implicit Fields for Generative Shape Modeling       | Zhiqin Chen and Hao Zhang | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) [[CODE]](https://github.com/czq142857/implicit-decoder) |
@@ -68,6 +70,7 @@ Those with piece-wise planar property are **highlighted**.
 | CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
 | ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al. | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
 | PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.     | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
+| UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree | Kacper Kania et al. | NIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
 
 ### Triangulation
 
