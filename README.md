@@ -46,6 +46,7 @@ Those with piece-wise planar property are **highlighted**.
 | Implicit Geometric Regularization for Learning Shapes        | Amos Gropp et al.         | ICML  | 2020 | [[PDF]](https://arxiv.org/pdf/2002.10099.pdf) [[CODE]](https://github.com/amosgropp/IGR) |
 | Deep Parametric Shape Predictions using Distance Fields      | Dmitriy Smirnov et al.    | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1904.08921.pdf) [[CODE]](https://github.com/dmsm/DeepParametricShapes) |
 | **PolyGen: An Autoregressive Generative Model of 3D Meshes** | Charlie Nash et al.       | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/2002.10880v1.pdf)              |
+| **CvxNet: Learnable Convex Decomposition**                   | Boyang Deng et al.        | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/1909.05736.pdf) [[CODE]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet) |
 
 ### Kinetic Reconstruction
 
