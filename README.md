@@ -37,6 +37,7 @@ Those with piece-wise planar property are **highlighted**.
 | Title                                                        | Authors                   | Venue | Year | Resources                                                    |
 | :----------------------------------------------------------- | ------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | Continuous Signed Distance Functions for 3D Vision           | Simen Haugo et al.        | 3DV   | 2017 | [[PDF]](https://lightbits.github.io/papers/haugo2017continuous.pdf) |
+| AtlasNet: A Papier-Mâché Approach to Learning 3D Surface     | Thibault Groueix et al.   | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1802.05384.pdf) [[CODE]](https://github.com/ThibaultGROUEIX/AtlasNet) |
 | DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation | Jeong Joon Park et al.    | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1901.05103.pdf) [[CODE]](https://github.com/facebookresearch/DeepSDF) |
 | Occupancy Networks: Learning 3D Reconstruction in Function Space | Lars Mescheder et al.     | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.03828) [[CODE]](https://github.com/autonomousvision/occupancy_networks) |
 | Learning Implicit Fields for Generative Shape Modeling       | Zhiqin Chen and Hao Zhang | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) [[CODE]](https://github.com/czq142857/implicit-decoder) |
