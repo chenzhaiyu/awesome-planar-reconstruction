@@ -51,9 +51,9 @@ Those with piece-wise planar property are **highlighted**.
 
 ### Kinetic Reconstruction
 
-| Title                            | Authors                                   | Venue   | Year | Resources                                     |
-| :------------------------------- | ----------------------------------------- | ------- | ---- | --------------------------------------------- |
-| **Kinetic Shape Reconstruction** | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | ACM TOG | 2020 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) |
+| Title                            | Authors                                   | Venue   | Year | Resources                                           |
+| :------------------------------- | ----------------------------------------- | ------- | ---- | --------------------------------------------------- |
+| **Kinetic Shape Reconstruction** | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | ACM TOG | 2020 | [[PDF]](https://hal.inria.fr/hal-02924409/document) |
 
 ### Mesh Deformation
 
