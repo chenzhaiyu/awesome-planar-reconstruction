@@ -49,6 +49,7 @@ Those with piece-wise planar property are **highlighted**.
 | **PolyGen: An Autoregressive Generative Model of 3D Meshes** | Charlie Nash et al.       | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/2002.10880v1.pdf)              |
 | **CvxNet: Learnable Convex Decomposition**                   | Boyang Deng et al.        | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/1909.05736.pdf) [[CODE]](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/cvxnet) |
 | Local Deep Implicit Functions for 3D Shape                   | Kyle Genova et al.        | CVPR  | 2020 | [[PDF]](https://ldif.cs.princeton.edu/assets/paper.pdf) [[CODE]](https://github.com/google/ldif) |
+| Coupling Explicit and Implicit Surface Representations for Generative 3D Modeling | Omid Poursaeed et al.     | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10294.pdf)                |
 
 ### Kinetic Reconstruction
 
