@@ -53,9 +53,9 @@ Those with piece-wise planar property are **highlighted**.
 
 ### Kinetic Reconstruction
 
-| Title                            | Authors                                   | Venue   | Year | Resources                                           |
-| :------------------------------- | ----------------------------------------- | ------- | ---- | --------------------------------------------------- |
-| **Kinetic Shape Reconstruction** | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | ACM TOG | 2020 | [[PDF]](https://hal.inria.fr/hal-02924409/document) |
+| Title                            | Authors                                   | Venue    | Year | Resources                                           |
+| :------------------------------- | ----------------------------------------- | -------- | ---- | --------------------------------------------------- |
+| **Kinetic Shape Reconstruction** | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | SIGGRAPH | 2020 | [[PDF]](https://hal.inria.fr/hal-02924409/document) |
 
 ### Mesh Deformation
 
@@ -84,10 +84,11 @@ Those with piece-wise planar property are **highlighted**.
 
 ### Urban Reconstruction
 
-| Title                                                  | Authors               | Venue   | Year | Resources                                                    |
-| :----------------------------------------------------- | --------------------- | ------- | ---- | ------------------------------------------------------------ |
-| LOD Generation for Urban Scenes                        | Yannick Verdie et al. | ACM TOG | 2015 | [[PDF]](https://hal.inria.fr/hal-01113078/file/manuscript.pdf) |
-| Manhattan-world Urban Reconstruction from Point Clouds | Minglei Li et al.     | ECCV    | 2016 | [[PDF]](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf) |
+| Title                                                        | Authors               | Venue   | Year | Resources                                                    |
+| :----------------------------------------------------------- | --------------------- | ------- | ---- | ------------------------------------------------------------ |
+| LOD Generation for Urban Scenes                              | Yannick Verdie et al. | ACM TOG | 2015 | [[PDF]](https://hal.inria.fr/hal-01113078/file/manuscript.pdf) |
+| Manhattan-world Urban Reconstruction from Point Clouds       | Minglei Li et al.     | ECCV    | 2016 | [[PDF]](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf) |
+| **Connect-and-Slice: an hybrid approach for reconstructing 3D objects** | Hao Fang et al.       | CVPR    | 2020 | [[PDF]](https://hal.inria.fr/hal-02541349/document)          |
 
 ## License
 
