@@ -84,11 +84,12 @@ Those with piece-wise planar property are **highlighted**.
 
 ### Urban Reconstruction
 
-| Title                                                        | Authors               | Venue   | Year | Resources                                                    |
-| :----------------------------------------------------------- | --------------------- | ------- | ---- | ------------------------------------------------------------ |
-| LOD Generation for Urban Scenes                              | Yannick Verdie et al. | ACM TOG | 2015 | [[PDF]](https://hal.inria.fr/hal-01113078/file/manuscript.pdf) |
-| Manhattan-world Urban Reconstruction from Point Clouds       | Minglei Li et al.     | ECCV    | 2016 | [[PDF]](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf) |
-| **Connect-and-Slice: an hybrid approach for reconstructing 3D objects** | Hao Fang et al.       | CVPR    | 2020 | [[PDF]](https://hal.inria.fr/hal-02541349/document)          |
+| Title                                                        | Authors               | Venue          | Year | Resources                                                    |
+| :----------------------------------------------------------- | --------------------- | -------------- | ---- | ------------------------------------------------------------ |
+| LOD Generation for Urban Scenes                              | Yannick Verdie et al. | ACM TOG        | 2015 | [[PDF]](https://hal.inria.fr/hal-01113078/file/manuscript.pdf) |
+| Manhattan-world Urban Reconstruction from Point Clouds       | Minglei Li et al.     | ECCV           | 2016 | [[PDF]](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf) |
+| **Connect-and-Slice: an hybrid approach for reconstructing 3D objects** | Hao Fang et al.       | CVPR           | 2020 | [[PDF]](https://hal.inria.fr/hal-02541349/document)          |
+| **Relation-Constrained Automatic 3D Reconstruction of Buildings in Metropolitan Areas from Photogrammetric Point Clouds** | Yuan Li and Bo Wu     | Remote Sensing | 2021 | [[PDF]](https://www.mdpi.com/2072-4292/13/1/129/pdf)         |
 
 ## License
 
