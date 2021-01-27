@@ -41,6 +41,7 @@ Those with piece-wise planar property are **highlighted**.
 | DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation | Jeong Joon Park et al.    | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1901.05103.pdf) [[CODE]](https://github.com/facebookresearch/DeepSDF) |
 | Occupancy Networks: Learning 3D Reconstruction in Function Space | Lars Mescheder et al.     | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.03828) [[CODE]](https://github.com/autonomousvision/occupancy_networks) |
 | Learning Implicit Fields for Generative Shape Modeling       | Zhiqin Chen and Hao Zhang | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.02822.pdf) [[CODE]](https://github.com/czq142857/implicit-decoder) |
+| Learning Shape Templates with Structured Implicit Functions  | Kyle Genova et al.        | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1904.06447.pdf)                |
 | **BSP-Net: Generating Compact Meshes via Binary Space Partitioning** | Zhiqin Chen et al.        | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.06971.pdf) [[CODE]](https://github.com/czq142857/BSP-NET-pytorch) |
 | Points2Surf: Learning Implicit Surfaces from Point Clouds    | Philipp Erler et al.      | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10453.pdf) [[CODE]](https://github.com/ErlerPhilipp/points2surf) |
 | Overfit Neural Networks as a Compact Shape Representation    | Thomas Davies et al.      | arXiv | 2020 | [[PDF]](https://arxiv.org/pdf/2009.09808.pdf)                |
