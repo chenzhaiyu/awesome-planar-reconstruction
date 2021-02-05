@@ -16,14 +16,15 @@ Those with piece-wise planar property are **highlighted**.
 
 ### Single-view Reconstruction
 
-| Title                                                        | Authors                      | Venue | Year | Resources                                                    |
-| :----------------------------------------------------------- | ---------------------------- | ----- | ---- | ------------------------------------------------------------ |
-| **PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image** | Chen Liu et al.              | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1804.06278.pdf) [[CODE]](https://github.com/art-programmer/PlaneNet) |
-| **Recovering 3D Planes from a Single Image via Convolutional Neural Networks** | Fengting Yang and Zihan Zhou | ECCV  | 2018 | [[PDF]](https://faculty.ist.psu.edu/zzhou/paper/ECCV18-plane.pdf) [[CODE]](https://github.com/fuy34/planerecover) |
-| **PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image** | Chen Liu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
-| **Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding** | Zehao Yu et al.              | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
-| Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks | Junyi Pan et al.             | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.00321.pdf) [[CODE]](https://github.com/jnypan/TMNet) |
-| Mesh R-CNN                                                   | Georgia Gkioxari et al.      | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1906.02739.pdf) [[CODE]](https://github.com/facebookresearch/meshrcnn) |
+| Title                                                        | Authors                           | Venue | Year | Resources                                                    |
+| :----------------------------------------------------------- | --------------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| **PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image** | Chen Liu et al.                   | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1804.06278.pdf) [[CODE]](https://github.com/art-programmer/PlaneNet) |
+| **Recovering 3D Planes from a Single Image via Convolutional Neural Networks** | Fengting Yang and Zihan Zhou      | ECCV  | 2018 | [[PDF]](https://faculty.ist.psu.edu/zzhou/paper/ECCV18-plane.pdf) [[CODE]](https://github.com/fuy34/planerecover) |
+| **PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image** | Chen Liu et al.                   | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1812.04072.pdf) [[CODE]](https://github.com/NVlabs/planercnn) |
+| **Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding** | Zehao Yu et al.                   | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
+| Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks | Junyi Pan et al.                  | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.00321.pdf) [[CODE]](https://github.com/jnypan/TMNet) |
+| Mesh R-CNN                                                   | Georgia Gkioxari et al.           | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1906.02739.pdf) [[CODE]](https://github.com/facebookresearch/meshrcnn) |
+| Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction | Yiming Qian and Yasutaka Furukawa | ECCV  | 2020 | [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) |
 
 
 ### Multi-view Reconstruction
@@ -55,9 +56,11 @@ Those with piece-wise planar property are **highlighted**.
 
 ### Kinetic Reconstruction
 
-| Title                            | Authors                                   | Venue    | Year | Resources                                           |
-| :------------------------------- | ----------------------------------------- | -------- | ---- | --------------------------------------------------- |
-| **Kinetic Shape Reconstruction** | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | SIGGRAPH | 2020 | [[PDF]](https://hal.inria.fr/hal-02924409/document) |
+| Title                                                       | Authors                                   | Venue    | Year | Resources                                                    |
+| :---------------------------------------------------------- | ----------------------------------------- | -------- | ---- | ------------------------------------------------------------ |
+| KIPPI: KInetic Polygonal Partitioning of Images             | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | CVPR     | 2018 | [[PDF]](https://hal.inria.fr/hal-01740958/file/kippi.pdf) [[CODE]](https://www-sop.inria.fr/members/Florent.Lafarge/code/kippi.rar) |
+| Approximating shapes in images with low-complexity polygons | Muxingzi Li et al.                        | CVPR     | 2020 | [[PDF]](https://hal.inria.fr/hal-02526028/document) [[CODE]](https://www-sop.inria.fr/members/Florent.Lafarge/code/ASIP.zip) |
+| **Kinetic Shape Reconstruction**                            | JEAN-PHILIPPE BAUCHET and FLORENT LAFARGE | SIGGRAPH | 2020 | [[PDF]](https://hal.inria.fr/hal-02924409/document)          |
 
 ### Mesh Deformation
 
