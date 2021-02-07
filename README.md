@@ -2,7 +2,7 @@
 
 ## Papers
 
-Those with piece-wise planar property are **highlighted**.
+Those with piece-wise planarity are **highlighted**.
 
 ### Plane Extraction / Detection
 
@@ -71,15 +71,16 @@ Those with piece-wise planar property are **highlighted**.
 | Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows | Kunal Gupta and Manmohan Chandraker | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10973.pdf) [[CODE]](https://github.com/KunalMGupta/NeuralMeshFlow) |
 | Learning Deformable Tetrahedral Meshes for 3D Reconstruction | Jun Gao et al.                      | NeurIPS  | 2020 | [[PDF]](https://arxiv.org/abs/2011.01437) [[CODE]](https://github.com/nv-tlabs/DefTet) |
 
-### Constructive / Parametric Geometry / Assembly
+### Constructive / Parametric Geometry
 
-| Title                                                        | Authors             | Venue | Year | Resources                                                    |
-| :----------------------------------------------------------- | ------------------- | ----- | ---- | ------------------------------------------------------------ |
-| 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks | Chuhang Zou et al.  | ICCV  | 2017 | [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf) [[CODE]](https://github.com/zouchuhang/3D-PRNN) |
-| CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al. | CVPR  | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
-| ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al. | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
-| PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.     | CVPR  | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
-| **UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree** | Kacper Kania et al. | NIPS  | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
+| Title                                                        | Authors             | Venue    | Year | Resources                                                    |
+| :----------------------------------------------------------- | ------------------- | -------- | ---- | ------------------------------------------------------------ |
+| Mesh arrangements for solid geometry                         | Qingnan Zhou et al. | SIGGRAPH | 2016 | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2897824.2925901) [[CODE]](https://libigl.github.io/tutorial/#boolean-operations-on-meshes) |
+| 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks | Chuhang Zou et al.  | ICCV     | 2017 | [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf) [[CODE]](https://github.com/zouchuhang/3D-PRNN) |
+| CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al. | CVPR     | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
+| ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al. | ECCV     | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
+| PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.     | CVPR     | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
+| **UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree** | Kacper Kania et al. | NIPS     | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
 
 ### Triangulation
 
