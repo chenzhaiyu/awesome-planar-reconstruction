@@ -75,7 +75,7 @@ Those with piece-wise planarity are **highlighted**.
 
 | Title                                                        | Authors                   | Venue                  | Year | Resources                                                    |
 | :----------------------------------------------------------- | ------------------------- | ---------------------- | ---- | ------------------------------------------------------------ |
-| Boolean operations on 3D selective Nef complexes: Data structure, algorithms, optimized implementation and experiments | Peter Hachenberger et al. | Computational Geometry | 2007 | [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925772107000181) |
+| Boolean operations on 3D selective Nef complexes: Data structure, algorithms, optimized implementation and experiments | Peter Hachenberger et al. | Computational Geometry | 2007 | [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925772107000181) [[CODE]](https://doc.cgal.org/latest/Nef_3/index.html) |
 | Mesh arrangements for solid geometry                         | Qingnan Zhou et al.       | SIGGRAPH               | 2016 | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/2897824.2925901) [[CODE]](https://libigl.github.io/tutorial/#boolean-operations-on-meshes) |
 | 3D-PRNN: Generating Shape Primitives with Recurrent Neural Networks | Chuhang Zou et al.        | ICCV                   | 2017 | [[PDF]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zou_3D-PRNN_Generating_Shape_ICCV_2017_paper.pdf) [[CODE]](https://github.com/zouchuhang/3D-PRNN) |
 | CSGNet: Neural Shape Parser for Constructive Solid Geometry  | Gopal Sharma et al.       | CVPR                   | 2018 | [[PDF]](https://arxiv.org/pdf/1712.08290.pdf)                |
