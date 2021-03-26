@@ -97,6 +97,7 @@ Those with piece-wise planarity are **highlighted**.
 | Manhattan-world Urban Reconstruction from Point Clouds       | Minglei Li et al.     | ECCV           | 2016 | [[PDF]](https://3d.bk.tudelft.nl/liangliang/publications/2016/manhattan/manhattan_eccv2016.pdf) |
 | **Connect-and-Slice: an hybrid approach for reconstructing 3D objects** | Hao Fang et al.       | CVPR           | 2020 | [[PDF]](https://hal.inria.fr/hal-02541349/document)          |
 | **Relation-Constrained Automatic 3D Reconstruction of Buildings in Metropolitan Areas from Photogrammetric Point Clouds** | Yuan Li and Bo Wu     | Remote Sensing | 2021 | [[PDF]](https://www.mdpi.com/2072-4292/13/1/129/pdf)         |
+| **Combined Rule-Based and Hypothesis-Based Method for Building Model Reconstruction from Photogrammetric Point Clouds** | Linfu Xie et al.     | Remote Sensing | 2021 | [[PDF]](https://www.researchgate.net/publication/350065884_Combined_Rule-Based_and_Hypothesis-Based_Method_for_Building_Model_Reconstruction_from_Photogrammetric_Point_Clouds)         |
 
 ## License
 
