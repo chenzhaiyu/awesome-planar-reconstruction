@@ -89,6 +89,12 @@ Those with piece-wise planarity are **highlighted**.
 | :-------------------------------------------------- | ---------------------------------- | ----- | ---- | ------------------------------------------------------------ |
 | PointTriNet: Learned Triangulation of 3D Point Sets | Nicholas Sharp and Maks Ovsjanikov | ECCV  | 2020 | [[PDF]](https://nmwsharp.com/media/papers/learned-triangulation/learned_triangulation.pdf) [[CODE]](https://github.com/nmwsharp/learned-triangulation) |
 
+### Wireframe
+
+| Title                                               | Authors                            | Venue | Year | Resources                                                    |
+| :-------------------------------------------------- | ---------------------------------- | ----- | ---- | ------------------------------------------------------------ |
+| PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds | Yujia Liu et al. | ICLR  | 2021 | [[PDF]](https://openreview.net/pdf?id=8X2eaSZxTP) |
+
 ### Urban Reconstruction
 
 | Title                                                        | Authors               | Venue          | Year | Resources                                                    |
