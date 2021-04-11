@@ -24,7 +24,7 @@ Those with piece-wise planarity are **highlighted**.
 | **Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding** | Zehao Yu et al.                   | CVPR  | 2019 | [[PDF]](https://arxiv.org/pdf/1902.09777.pdf) [[CODE]](https://github.com/svip-lab/PlanarReconstruction) |
 | Deep Mesh Reconstruction from Single RGB Images via Topology Modification Networks | Junyi Pan et al.                  | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1909.00321.pdf) [[CODE]](https://github.com/jnypan/TMNet) |
 | Mesh R-CNN                                                   | Georgia Gkioxari et al.           | ICCV  | 2019 | [[PDF]](https://arxiv.org/pdf/1906.02739.pdf) [[CODE]](https://github.com/facebookresearch/meshrcnn) |
-| Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction | Yiming Qian and Yasutaka Furukawa | ECCV  | 2020 | [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) |
+| **Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction** | Yiming Qian and Yasutaka Furukawa | ECCV  | 2020 | [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) |
 
 
 ### Multi-view Reconstruction
