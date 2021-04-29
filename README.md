@@ -82,6 +82,7 @@ Those with piece-wise planarity are **highlighted**.
 | ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds | Gopal Sharma et al.       | ECCV                   | 2020 | [[PDF]](https://arxiv.org/pdf/2003.12181.pdf) [[CODE]](https://github.com/Hippogriff/parsenet-codebase) |
 | PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.           | CVPR                   | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
 | **UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree** | Kacper Kania et al.       | NIPS                   | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
+| State of the Art on Computational Design of Assemblies with Rigid Parts | Ziqi Wang et al.          | EUROGRAPHICS           | 2021 | [[PDF]](https://kiki007.github.io/publication/assemblysurvey/paper.pdf) |
 
 ### Triangulation
 
