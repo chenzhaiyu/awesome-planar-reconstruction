@@ -13,6 +13,8 @@ Those with piece-wise planarity are **highlighted**.
 | Planar Shape Detection at Structural Scales | Hao Fang et al. | CVPR | 2018 | [[PDF]](https://hal.inria.fr/hal-01741650/document) |
 | Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds | Sheng Xu et al. | PAMI  | 2020 | [[PDF]](https://ieeexplore.ieee.org/document/9095372)|
 | From Planes to Corners: Multi-Purpose Primitive Detection in Unorganized 3D Point Clouds | Christiane Sommer et al. | ICRA | 2020 | [[PDF]](https://arxiv.org/ftp/arxiv/papers/2001/2001.07360.pdf) [[CODE]](https://github.com/c-sommer/orthogonal-planes) |
+| Supervised Fitting of Geometric Primitives to 3D Point Clouds | Lingxiao Li et al. | CVPR | 2019 | [[PDF]](https://arxiv.org/pdf/1811.08988.pdf) [[CODE]](https://github.com/lingxiaoli94/SPFN) |
+| CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds | Eric-Tuan Lê et al. | ICCV | 2021 | [[PDF]](https://arxiv.org/pdf/2109.00113.pdf) [[CODE]](https://github.com/erictuanle/CPFN) |
 
 ### Single-view Reconstruction
 
