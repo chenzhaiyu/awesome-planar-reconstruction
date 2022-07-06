@@ -29,11 +29,14 @@ Those with piece-wise planarity are **highlighted**.
 | **Learning Pairwise Inter-Plane Relations for Piecewise Planar Reconstruction** | Yiming Qian and Yasutaka Furukawa | ECCV  | 2020 | [[PDF]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520324.pdf) |
 
 
+
 ### Multi-view Reconstruction
 
 | Title                                                        | Authors                   | Venue                      | Year | Resources                                                    |
 | :----------------------------------------------------------- | ------------------------- | -------------------------- | ---- | ------------------------------------------------------------ |
 | **Reconstructing piecewise planar scenes with multi-view regularization** | Weijie Xi and Xuejin Chen | Computational Visual Media | 2019 | [[PDF]](https://link.springer.com/content/pdf/10.1007/s41095-019-0159-7.pdf) |
+| PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo | Jiachen Liu et al. | CVPR| 2022 | [[PDF]](https://arxiv.org/pdf/2203.12082.pdf) |
+
 
 ### Generative / Implicit Field
 
