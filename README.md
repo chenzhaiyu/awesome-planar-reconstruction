@@ -55,7 +55,8 @@ Those with piece-wise planarity are **highlighted**.
 | Local Deep Implicit Functions for 3D Shape                   | Kyle Genova et al.        | CVPR  | 2020 | [[PDF]](https://ldif.cs.princeton.edu/assets/paper.pdf) [[CODE]](https://github.com/google/ldif) |
 | Coupling Explicit and Implicit Surface Representations for Generative 3D Modeling | Omid Poursaeed et al.     | ECCV  | 2020 | [[PDF]](https://arxiv.org/pdf/2007.10294.pdf)                |
 | CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly | Fenggen Yu et al.     | CVPR  | 2022 | [[PDF]](https://arxiv.org/pdf/2104.05652.pdf)                |
-
+| Neural 3D Scene Reconstruction with the Manhattan-world Assumption | Haoyu Guo et al.     | CVPR  | 2022 | [[PAGE]](https://zju3dv.github.io/manhattan_sdf)                |
+| NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors | Jiepeng Wang et al.     | ECCV  | 2022 | [[PAGE]](https://jiepengwang.github.io/NeuRIS/)                |
 ### Kinetic Reconstruction
 
 | Title                                                       | Authors                                   | Venue    | Year | Resources                                                    |
