@@ -90,7 +90,7 @@ Those with piece-wise planarity are **highlighted**.
 | PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes arXiv:1911.10949v3 | Rundi Wu et al.                           | CVPR                   | 2020 | [[PDF]](https://arxiv.org/pdf/1911.10949.pdf) [[CODE]](https://github.com/ChrisWu1997/PQ-NET) |
 | **UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree** | Kacper Kania et al.                       | NIPS                   | 2020 | [[PDF]](https://arxiv.org/pdf/2006.09102v3.pdf) [[CODE]](https://github.com/kacperkan/ucsgnet) |
 | State of the Art on Computational Design of Assemblies with Rigid Parts | Ziqi Wang et al.                          | EUROGRAPHICS           | 2021 | [[PDF]](https://kiki007.github.io/publication/assemblysurvey/paper.pdf) |
-| Reconstruction of Convex Polytope Compositions from 3D Point-clouds | Markus Friedrich and Pierre-Alain Fayolle | arXiv                  | 2021 | [[PDF]](https://arxiv.org/pdf/2105.02956.pdf)                |
+| Reconstruction of Convex Polytope Compositions from 3D Point-clouds | Markus Friedrich and Pierre-Alain Fayolle | GRAPP                  | 2021 | [[PDF]](https://www.scitepress.org/Papers/2021/102971/102971.pdf) [[CODE]](https://github.com/mafried/csg_playground/tree/fullpipeline_polytope)               |
 
 ### Triangulation
 
