@@ -61,6 +61,7 @@ Those with piece-wise planarity are **highlighted**.
 | CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly | Fenggen Yu et al.     | CVPR  | 2022 | [[PDF]](https://arxiv.org/pdf/2104.05652.pdf)                |
 | Neural 3D Scene Reconstruction with the Manhattan-world Assumption | Haoyu Guo et al.     | CVPR  | 2022 | [[PAGE]](https://zju3dv.github.io/manhattan_sdf)                |
 | NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors | Jiepeng Wang et al.     | ECCV  | 2022 | [[PAGE]](https://jiepengwang.github.io/NeuRIS/)                |
+
 ### Kinetic Reconstruction
 
 | Title                                                       | Authors                                   | Venue    | Year | Resources                                                    |
@@ -113,6 +114,7 @@ Those with piece-wise planarity are **highlighted**.
 | **Connect-and-Slice: an hybrid approach for reconstructing 3D objects** | Hao Fang et al.       | CVPR           | 2020 | [[PDF]](https://hal.inria.fr/hal-02541349/document)          |
 | **Relation-Constrained Automatic 3D Reconstruction of Buildings in Metropolitan Areas from Photogrammetric Point Clouds** | Yuan Li and Bo Wu     | Remote Sensing | 2021 | [[PDF]](https://www.mdpi.com/2072-4292/13/1/129/pdf)         |
 | **Combined Rule-Based and Hypothesis-Based Method for Building Model Reconstruction from Photogrammetric Point Clouds** | Linfu Xie et al.     | Remote Sensing | 2021 | [[PDF]](https://www.researchgate.net/publication/350065884_Combined_Rule-Based_and_Hypothesis-Based_Method_for_Building_Model_Reconstruction_from_Photogrammetric_Point_Clouds)         |
+| **Reconstructing Compact Building Models from Point Clouds Using Deep Implicit Fields** | Zhaiyu Chen et al.     | ISPRS | 2022 | [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924271622002611) [[CODE]](https://github.com/chenzhaiyu/points2poly)         |
 
 ## License
 
